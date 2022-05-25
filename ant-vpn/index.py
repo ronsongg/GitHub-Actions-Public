@@ -120,5 +120,5 @@ class Ant(object):
         self.request(data)
 
 if __name__ == "__main__":
-    ant = Ant('bf5Sg') #邀请码
+    ant = Ant('bnSCM') #邀请码
     ant.invite()
